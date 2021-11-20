@@ -30,3 +30,4 @@ int main()
     }
 
     printf("\nTotal years to surpass the threshold value: %d\n", threshold_value);
+}
