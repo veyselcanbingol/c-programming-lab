@@ -1,2 +1,2 @@
 # c-programming-lab
-These codes were written by me while learning C programming.
+:star: These codes were written by me while learning C programming.
